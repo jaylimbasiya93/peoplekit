@@ -14,7 +14,7 @@ export function Footer() {
           <div>
             <h3 className="font-semibold text-slate-900 dark:text-slate-100">Product</h3>
             <ul className="mt-3 space-y-2 text-sm text-slate-600 dark:text-slate-400">
-              <li><Link to="/tools" className="hover:text-primary-600">All tools</Link></li>
+              <li><Link to="/hr-tools" className="hover:text-primary-600">All tools</Link></li>
               <li><Link to="/categories" className="hover:text-primary-600">Categories</Link></li>
               <li><Link to="/hr-tools" className="hover:text-primary-600">HR tools</Link></li>
               <li><Link to="/employee-tools" className="hover:text-primary-600">Employee tools</Link></li>

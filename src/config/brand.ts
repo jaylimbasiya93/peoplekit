@@ -3,7 +3,7 @@ export const BRAND = {
   tagline: 'The ultimate free toolkit for HR and work',
   description:
     'Free HR calculators, employee payroll tools, tax and PF calculators, leave trackers, offer letter generators, and workplace resources for modern teams.',
-  domain: 'https://peoplekit.work',
+  domain: 'https://www.peoplekit.work',
   email: 'hello@peoplekit.work',
   social: {
     twitter: '@PeopleKit',

@@ -28,14 +28,14 @@ type TemplateValues = {
 }
 
 const hrHighlights = [
-  { title: 'Payroll & salary planning', description: 'From CTC to in-hand projections and tax estimates.', slug: '/tools' },
+  { title: 'Payroll & salary planning', description: 'From CTC to in-hand projections and tax estimates.', slug: '/hr-tools' },
   { title: 'Workforce metrics', description: 'Notice periods, tenure, and headcount planning tools.', slug: '/categories/hr' },
   { title: 'Compliance-ready templates', description: 'Offer, warning, and policy document generators.', slug: '/templates' },
 ]
 
 const employeeHighlights = [
-  { title: 'Leave and attendance', description: 'Track balances, workdays, and attendance patterns.', slug: '/tools?category=leave' },
-  { title: 'Career and productivity', description: 'Experience tracking, progress plan, and productivity helpers.', slug: '/tools' },
+  { title: 'Leave and attendance', description: 'Track balances, workdays, and attendance patterns.', slug: '/hr-tools?category=leave' },
+  { title: 'Career and productivity', description: 'Experience tracking, progress plan, and productivity helpers.', slug: '/hr-tools' },
   { title: 'Personal planning', description: 'Simple tools for dates, hours, and work schedules.', slug: '/categories/leave' },
 ]
 
@@ -185,7 +185,7 @@ export function HrToolsPage() {
       <section className="section-shell pb-16">
         <div className="flex items-center justify-between gap-3">
           <h2 className="font-display text-2xl font-bold">Popular HR tools</h2>
-          <Link to="/tools" className="text-sm font-semibold text-primary-600">Browse all calculators</Link>
+          <Link to="/hr-tools" className="text-sm font-semibold text-primary-600">Browse all calculators</Link>
         </div>
         <div className="mt-6 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
           {tools.slice(0, 18).map((tool) => (
@@ -206,7 +206,12 @@ export function EmployeeToolsPage() {
 
   return (
     <>
-      <SeoHead title="Employee tools for leave, attendance, and daily work planning" description="Use free PeopleKit employee tools for leave, work hours, dates, and productivity planning." path="/employee-tools" />
+      <SeoHead
+        title="Employee Tools: Leave & Work Planning"
+        description="Free employee tools for leave, work hours, dates, and attendance planning. Fast, accurate calculators with no signup."
+        path="/employee-tools"
+        inLanguage="en"
+      />
       <CatalogHeader title="Employee tools for everyday work." subtitle="Track time, plan leave, calculate notice periods, and make work days easier to understand for both employees and managers." badge="Employee tools" />
       <section className="section-shell pb-8">
         <div className="grid gap-4 md:grid-cols-3">
@@ -402,7 +407,12 @@ export function TemplatesPage() {
 
   return (
     <>
-      <SeoHead title="HR templates and document generators" description="Download practical HR templates, offer letters, checklists, and employee document forms from PeopleKit." path="/templates" />
+      <SeoHead
+        title="Free HR Templates & Letter Generators"
+        description="Create and download professional HR letters: offer letters, appointment letters, experience letters, and relieving letters."
+        path="/templates"
+        inLanguage="en"
+      />
       <CatalogHeader title="HR templates and document tools." subtitle="Create smarter employee documents, onboarding checklists, offer letters, and policy drafts in a format your team can reuse quickly." badge="Templates" />
 
       <section className="section-shell pb-8">
@@ -583,7 +593,12 @@ export function TemplatesPage() {
 export function ResourcesPage() {
   return (
     <>
-      <SeoHead title="HR guides, employee resources, and workplace checklists" description="Read practical PeopleKit HR guides on payroll, leave, notice periods, and workplace planning." path="/resources" />
+      <SeoHead
+        title="HR Guides & Workplace Resources"
+        description="Practical workplace guides on payroll calculations, statutory compliance, notice periods, and people operations."
+        path="/resources"
+        inLanguage="en"
+      />
       <CatalogHeader title="Resources for HR and employee planning." subtitle="Useful workplace guides, policy ideas, and practical decision-making resources designed to support better people operations." badge="Resources" />
       <section className="section-shell pb-8">
         <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">

@@ -9,9 +9,8 @@ interface MobileNavProps {
 
 const links = [
   { to: '/', label: 'Home' },
-  { to: '/hr-tools', label: 'HR Tools' },
+  { to: '/hr-tools', label: 'Calculators' },
   { to: '/employee-tools', label: 'Employee Tools' },
-  { to: '/tools', label: 'Calculators' },
   { to: '/templates', label: 'Templates' },
   { to: '/resources', label: 'Resources' },
   { to: '/categories', label: 'Categories' },

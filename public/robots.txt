@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://peoplekit.work/sitemap.xml
+Sitemap: https://www.peoplekit.work/sitemap.xml

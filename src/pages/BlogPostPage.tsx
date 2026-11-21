@@ -32,14 +32,15 @@ export function BlogPostPage() {
         description={post.excerpt}
         path={path}
         type="article"
+        inLanguage="en"
         jsonLd={[
-          articleSchema(post, `${BRAND.domain}${path}`),
+          articleSchema(post, `${BRAND.domain}${path}`, 'en'),
           breadcrumbSchema([
             { name: 'Home', url: BRAND.domain },
             { name: 'Blog', url: `${BRAND.domain}/blog` },
             { name: post.title, url: `${BRAND.domain}${path}` },
-          ]),
-          faqSchema(faqs),
+          ], 'en'),
+          faqSchema(faqs, 'en'),
         ]}
       />
       <article className="mx-auto max-w-3xl px-4 py-10 lg:px-6">

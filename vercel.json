@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/tools",
+      "destination": "/hr-tools",
+      "permanent": true
+    }
+  ],
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
   "headers": [
     {

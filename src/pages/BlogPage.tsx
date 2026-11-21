@@ -13,9 +13,10 @@ export function BlogPage() {
   return (
     <>
       <SeoHead
-        title="HR & Salary Blog"
-        description={`${BLOG_POSTS.length}+ articles on salary, payroll, tax, PF, and career growth in India.`}
+        title="HR & Payroll Blog | PeopleKit"
+        description="Expert articles and practical guides on salary structures, payroll calculations, statutory compliance, tax deductions, and career growth."
         path="/blog"
+        inLanguage="en"
       />
       <div className="mx-auto max-w-7xl px-4 py-10 lg:px-6">
         <h1 className="font-display text-3xl font-bold">Blog</h1>

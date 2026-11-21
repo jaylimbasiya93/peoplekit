@@ -1,452 +1,447 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://peoplekit.work/</loc>
+    <loc>https://www.peoplekit.work/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools</loc>
+    <loc>https://www.peoplekit.work/hr-tools</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://peoplekit.work/categories</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/hr-tools</loc>
+    <loc>https://www.peoplekit.work/categories</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/employee-tools</loc>
+    <loc>https://www.peoplekit.work/employee-tools</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/templates</loc>
+    <loc>https://www.peoplekit.work/templates</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/resources</loc>
+    <loc>https://www.peoplekit.work/resources</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/blog</loc>
+    <loc>https://www.peoplekit.work/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/about</loc>
+    <loc>https://www.peoplekit.work/about</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/contact</loc>
+    <loc>https://www.peoplekit.work/contact</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/privacy</loc>
+    <loc>https://www.peoplekit.work/privacy</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/terms</loc>
+    <loc>https://www.peoplekit.work/terms</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/disclaimer</loc>
+    <loc>https://www.peoplekit.work/disclaimer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/changelog</loc>
+    <loc>https://www.peoplekit.work/changelog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/salary</loc>
+    <loc>https://www.peoplekit.work/categories/salary</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/in-hand-salary-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/in-hand-salary-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/ctc-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/ctc-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/salary-hike-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/salary-hike-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/salary-increment-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/salary-increment-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/annual-salary-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/annual-salary-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/monthly-salary-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/monthly-salary-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/hourly-salary-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/hourly-salary-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/daily-wage-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/daily-wage-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/overtime-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/overtime-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/payroll-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/payroll-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/salary-breakdown-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/salary-breakdown-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/salary/cost-to-company-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/salary/cost-to-company-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/tax</loc>
+    <loc>https://www.peoplekit.work/categories/tax</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/income-tax-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/income-tax-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/new-regime-tax-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/new-regime-tax-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/old-regime-tax-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/old-regime-tax-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/tds-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/tds-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/professional-tax-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/professional-tax-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/advance-tax-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/advance-tax-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/surcharge-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/surcharge-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/tax-saving-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/tax-saving-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/tax/tax-comparison-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/tax/tax-comparison-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/pf-retirement</loc>
+    <loc>https://www.peoplekit.work/categories/pf-retirement</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/epf-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/epf-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/pf-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/pf-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/ppf-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/ppf-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/gratuity-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/gratuity-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/pension-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/pension-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/nps-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/nps-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/retirement-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/retirement-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/pf-retirement/superannuation-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/pf-retirement/superannuation-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/hr</loc>
+    <loc>https://www.peoplekit.work/categories/hr</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/notice-period-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/notice-period-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/experience-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/experience-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/joining-date-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/joining-date-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/resignation-date-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/resignation-date-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/last-working-day-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/last-working-day-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/probation-period-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/probation-period-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/confirmation-date-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/confirmation-date-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/attrition-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/attrition-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/headcount-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/headcount-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/hr/employee-turnover-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/hr/employee-turnover-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/leave</loc>
+    <loc>https://www.peoplekit.work/categories/leave</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/leave-balance-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/leave/leave-balance-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/leave-encashment-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/leave/leave-encashment-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/working-days-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/leave/working-days-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/holiday-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/leave/holiday-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/vacation-planner</loc>
+    <loc>https://www.peoplekit.work/tools/leave/vacation-planner</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/attendance-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/leave/attendance-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/leave-accrual-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/leave/leave-accrual-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/leave/absence-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/leave/absence-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/recruitment</loc>
+    <loc>https://www.peoplekit.work/categories/recruitment</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/recruitment/offer-comparison-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/recruitment/offer-comparison-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/recruitment/salary-negotiation-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/recruitment/salary-negotiation-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/recruitment/interview-cost-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/recruitment/interview-cost-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/recruitment/hiring-cost-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/recruitment/hiring-cost-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/recruitment/recruitment-roi-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/recruitment/recruitment-roi-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/recruitment/time-to-hire-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/recruitment/time-to-hire-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/recruitment/cost-per-hire-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/recruitment/cost-per-hire-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/career</loc>
+    <loc>https://www.peoplekit.work/categories/career</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/career/experience-letter-generator</loc>
+    <loc>https://www.peoplekit.work/tools/career/experience-letter-generator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/career/resignation-letter-generator</loc>
+    <loc>https://www.peoplekit.work/tools/career/resignation-letter-generator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/career/offer-acceptance-letter-generator</loc>
+    <loc>https://www.peoplekit.work/tools/career/offer-acceptance-letter-generator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/career/salary-negotiation-letter-generator</loc>
+    <loc>https://www.peoplekit.work/tools/career/salary-negotiation-letter-generator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/career/career-growth-planner</loc>
+    <loc>https://www.peoplekit.work/tools/career/career-growth-planner</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/career/promotion-eligibility-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/career/promotion-eligibility-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/career/career-progression-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/career/career-progression-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/categories/analytics</loc>
+    <loc>https://www.peoplekit.work/categories/analytics</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/analytics/employee-cost-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/analytics/employee-cost-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/analytics/team-salary-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/analytics/team-salary-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/analytics/hr-budget-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/analytics/hr-budget-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/analytics/workforce-cost-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/analytics/workforce-cost-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/analytics/compensation-benchmark-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/analytics/compensation-benchmark-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/analytics/salary-benchmark-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/analytics/salary-benchmark-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://peoplekit.work/tools/analytics/payroll-forecast-calculator</loc>
+    <loc>https://www.peoplekit.work/tools/analytics/payroll-forecast-calculator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

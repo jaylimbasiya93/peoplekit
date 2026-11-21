@@ -3,13 +3,13 @@ import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const DOMAIN = 'https://peoplekit.work'
+const DOMAIN = 'https://www.peoplekit.work'
 
+// Public static routes — note: /tools is 301 redirected to /hr-tools, so it is strictly excluded
 const staticRoutes = [
   '',
-  '/tools',
-  '/categories',
   '/hr-tools',
+  '/categories',
   '/employee-tools',
   '/templates',
   '/resources',
@@ -33,7 +33,7 @@ const categories = [
   'analytics',
 ]
 
-// Calculator slugs — keep in sync with src/data/calculators (generated list)
+// Calculator slugs — kept in sync with src/data/calculators
 const calculatorSlugs = {
   salary: [
     'in-hand-salary-calculator',
@@ -136,7 +136,7 @@ ${urls
     (loc) => `  <url>
     <loc>${loc}</loc>
     <changefreq>weekly</changefreq>
-    <priority>${loc === DOMAIN + '/' ? '1.0' : '0.8'}</priority>
+    <priority>${loc === DOMAIN + '/' ? '1.0' : loc === DOMAIN + '/hr-tools' ? '0.9' : '0.8'}</priority>
   </url>`
   )
   .join('\n')}
@@ -144,4 +144,4 @@ ${urls
 `
 
 writeFileSync(join(__dirname, '../public/sitemap.xml'), xml)
-console.log(`Sitemap written with ${urls.length} URLs`)
+console.log(`Sitemap written with ${urls.length} URLs (excluding /tools)`)

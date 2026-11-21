@@ -12,9 +12,8 @@ interface HeaderProps {
 
 const navLinks = [
   { to: '/', label: 'Home' },
-  { to: '/hr-tools', label: 'HR Tools' },
+  { to: '/hr-tools', label: 'Calculators' },
   { to: '/employee-tools', label: 'Employee Tools' },
-  { to: '/tools', label: 'Calculators' },
   { to: '/templates', label: 'Templates' },
   { to: '/resources', label: 'Resources' },
 ]
@@ -79,7 +78,7 @@ export function Header({ onMenuOpen, onSearchOpen, onCommandOpen }: HeaderProps)
           >
             {resolved === 'dark' ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
           </button>
-          <Link to="/tools" className="hidden sm:block">
+          <Link to="/hr-tools" className="hidden sm:block">
             <Button size="sm">Explore tools</Button>
           </Link>
         </div>
